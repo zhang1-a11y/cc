@@ -43,6 +43,14 @@ ISOTYPE（International System of Typographic Picture Education）以系统化�
 
 后续案例可使用 `设计方法：ISOTYPE` 作为独立标签，保留原有主类型与数据逻辑；本目录维护方法经验与案例链接。
 
+## 图符与导视案例参考
+
+1. [ISOTYPE 图符图集](01-isotype-pictograms.jpg)：包含人物、交通、工业与农业等题材。
+2. [ISOTYPE 图符样张](02-isotype-symbol-sheet.jpg)：包含器物、职业与场景等题材。
+3. [The Noun Project 黑白图标库界面](03-the-noun-project.jpg)。
+4. [Centro Cultural Futurama 导视](04-futurama-wayfinding.jpg)：使用红色线描图标搭配西班牙语标签。
+5. [Cafe Basic Set](05-cafe-basic-set.jpg)：包含咖啡馆设施与服务的线描图标。
+
 [返回02总索引](../README.md) · [案例登记与更新规范](../案例登记与更新规范.md)
 
-更新日期：2026-11-23。
+更新日期：2026-11-27。
